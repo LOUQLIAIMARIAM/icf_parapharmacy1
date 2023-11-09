@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "523363079393",
+    "project_id": "icfp-30f1f",
+    "storage_bucket": "icfp-30f1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523363079393:android:824c2bc934b844855e93a0",
+        "android_client_info": {
+          "package_name": "com.example.icf_parapharmacy1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB5XaTaKfXeFXO-ovZ-r0B3DURctO0uEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
